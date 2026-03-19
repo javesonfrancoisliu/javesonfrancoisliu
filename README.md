@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Javeson</h1>
 
 <p align="center">
-  Cloud &amp; DevOps Engineer &nbsp;&middot;&nbsp; AWS &middot; GCP &middot; Kubernetes &middot; Terraform
+  Cloud and AI Enthusiast &nbsp;&middot;&nbsp; AWS &middot; Terraform &middot; Docker
 </p>
 
 <p align="center">
@@ -12,17 +12,12 @@
 
 ---
 
-### What I Do
-
-I design and operate cloud infrastructure — scalable containerized workloads, automated pipelines, and reliable systems on AWS and GCP. I believe good infrastructure is invisible: it just works.
-
----
 
 ### Stack
 
 **Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Infrastructure as Code**
@@ -46,16 +41,17 @@ I design and operate cloud infrastructure — scalable containerized workloads, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
 ### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javesonfrancoisliu&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="155" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javesonfrancoisliu&layout=compact&theme=default&hide_border=true&langs_count=6" height="155" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=javesonfrancoisliu&theme=default&hide_border=true&count_private=true" height="155" />
