@@ -51,22 +51,6 @@
 
 ---
 
-### Achievements
-
-<p align="center">
-  <a href="https://github.com/javesonfrancoisliu?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="160" alt="Pull Shark x2" title="Pull Shark x2 — Opened pull requests that have been merged" />
-    &nbsp;
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="160" alt="YOLO" title="YOLO — Merged a pull request without a review" />
-    &nbsp;
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="160" alt="Quickdraw" title="Quickdraw — Closed an issue or PR within 5 minutes of opening" />
-    &nbsp;
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="160" alt="Pair Extraordinaire" title="Pair Extraordinaire — Co-authored a merged pull request" />
-  </a>
-</p>
-
----
-
 ### Stats
 
 <p align="center">
