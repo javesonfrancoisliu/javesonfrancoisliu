@@ -1,58 +1,125 @@
-<h1 align="center">Hi, I'm Javeson</h1>
+<h1 align="center">Javeson Francois Liu</h1>
 
 <p align="center">
-  Cloud and AI Enthusiast &nbsp;&middot;&nbsp; AWS &middot; Terraform &middot; Docker
+  Cloud Engineer &nbsp;&middot;&nbsp; Solutions Architect &nbsp;&middot;&nbsp; DevOps Engineer
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javeson-liu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=javesonfrancoisliu&color=818cf8&style=for-the-badge&label=UNIQUE+VISITORS" alt="Unique Visitors" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/javesonfrancoisliu/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:javesonfrancoisliu@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-fafafa?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
 
----
-
-
-### Stack
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**Infrastructure as Code**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-**CI/CD & Observability**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<br />
+<br />
 
 ---
 
-### Stats
+<br />
+
+### Featured Credentials
+
+<br />
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" />
+        <br />
+        <sub>Cloud Practitioner</sub>
+      </td>
+      <td width="15"></td>
+      <td align="center">
+        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" />
+        <br />
+        <sub>Solutions Architect</sub>
+      </td>
+      <td width="15"></td>
+      <td align="center">
+        <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" />
+        <br />
+        <sub>Developer Associate</sub>
+      </td>
+      <td width="15"></td>
+      <td align="center">
+        <img src="https://images.credly.com/size/680x680/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="110" />
+        <br />
+        <sub>Generative AI Leader</sub>
+      </td>
+    </tr>
+  </table>
+  <br />
+  <i>Recipient of 20+ Industry Credentials across AWS, Google Cloud, and Oracle.</i>
+</div>
+
+<br />
+
+---
+
+<br />
+
+### Achievements
+
+<br />
+
+**STJ Developer Challenge Malaysia 2025**
+Successfully represented Asia Pacific University (APU) and secured recognition for innovative cloud-based solutions at the STJ Developer Challenge.
+[Official News Feature](https://www.apu.edu.my/news/apu-celebrates-soc-students-success-stj-developer-challenge-malaysia-2025)
+
+<br />
+<br />
+
+---
+
+<br />
+
+### Tech Stack
+
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,python,ts,js,nodejs,postgres,mysql,mongodb,react,nextjs,html,css,tailwind,linux,githubactions,git,bash,fastapi,jupyter&perline=8" />
+</div>
+
+<br />
+<br />
+
+---
+
+<br />
+
+### Statistics
+
+<br />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=javesonfrancoisliu&theme=default&hide_border=true&count_private=true" height="155" />
+  <img src="https://streak-stats.demolab.com?user=javesonfrancoisliu&theme=dark&background=030303&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&hide_border=true&count_private=true" height="170" />
 </p>
+
+<br />
+<br />
+
+---
+
+<br />
+
+### Activity Metrics
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesonfrancoisliu&theme=react-dark&bg_color=030303&hide_border=true&area=true&color=818cf8" width="100%" />
+</div>
+
+<br />
+<br />
+<br />
