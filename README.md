@@ -25,6 +25,7 @@
 
 <br />
 
+<!-- TEMPORARILY HIDDEN
 ### Featured Credentials
 
 <br />
@@ -81,13 +82,14 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 ---
 
 <br />
+-->
 
 ### Tech Stack
 
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,python,ts,js,nodejs,postgres,mysql,mongodb,react,nextjs,html,css,tailwind,linux,githubactions,git,bash,fastapi,jupyter&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,python,ts,js,nodejs,postgres,mysql,mongodb,react,nextjs,html,css,tailwind,linux,githubactions,git,bash,fastapi,jupyter,playwright&perline=8" />
 </div>
 
 <br />
@@ -105,6 +107,7 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
   <img src="https://streak-stats.demolab.com?user=javesonfrancoisliu&theme=dark&background=030303&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&hide_border=true&count_private=true" height="170" />
 </p>
 
+<!-- TEMPORARILY HIDDEN
 <br />
 <br />
 
@@ -119,6 +122,7 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesonfrancoisliu&theme=react-dark&bg_color=030303&hide_border=true&area=true&color=818cf8" width="100%" />
 </div>
+-->
 
 <br />
 <br />
