@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javesonfrancoisliu&color=818cf8&style=for-the-badge&label=UNIQUE+VISITORS" alt="Unique Visitors" />
+  <img src="https://u8views.com/api/v1/github/profiles/162807554/views/total-count-badge.svg" alt="Unique Visitors" />
 </p>
 
 <p align="center">
