@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://u8views.com/api/v1/github/profiles/162807554/views/total-count-badge.svg" alt="Unique Visitors" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Fjavesonfrancoisliu%2Fgithub-profile%2Fup&query=%24.count&color=818cf8&style=for-the-badge&label=UNIQUE%2BVISITORS" alt="Unique Visitors" />
 </p>
 
 <p align="center">
