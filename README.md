@@ -19,7 +19,7 @@
 <br />
 
 <p align="center">
-  Cloud-native engineer specializing in AWS and GCP solutions architecture, infrastructure automation, and DevOps delivery. I design and build scalable, production-grade systems - from IaC pipelines with Terraform to event-driven cloud applications. Currently open to solutions architecture and cloud engineering roles.
+  Cloud-native engineer specializing in AWS and GCP solutions architecture, infrastructure automation, and DevOps delivery. I design and build scalable, production-grade systems - from IaC pipelines with Terraform to event-driven cloud applications.
 </p>
 
 <br />
@@ -120,11 +120,11 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 
 <br />
 
+<!--
 <h3 align="center">Statistics</h3>
 
 <br />
 
-<!--
 <p align="center">
   <img src="https://github-stats-tawny-six.vercel.app/api?username=javesonfrancoisliu&show_icons=true&theme=transparent&hide_border=true&ring_color=818cf8&icon_color=818cf8&title_color=818cf8&count_private=true" height="170" />
   &nbsp;
@@ -134,7 +134,6 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 <p align="center">
   <img src="https://github-stats-tawny-six.vercel.app/api/top-langs/?username=javesonfrancoisliu&layout=compact&theme=transparent&hide_border=true&title_color=818cf8&text_color=818cf8&count_private=true" />
 </p>
--->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=javesonfrancoisliu&theme=default&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&hide_border=true" height="170" />
@@ -146,13 +145,14 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 ---
 
 <br />
+-->
 
 <h3 align="center">Activity</h3>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesonfrancoisliu&bg_color=00000000&color=818cf8&line=818cf8&point=818cf8&area_color=818cf8&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesonfrancoisliu&bg_color=00000000&color=818cf8&line=818cf8&point=818cf8&area_color=818cf8&area=true&hide_border=true&custom_title=" />
 </div>
 
 <br />
