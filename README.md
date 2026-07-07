@@ -18,16 +18,11 @@
   <img src="https://komarev.com/ghpvc/?username=javesonfrancoisliu&style=for-the-badge&color=818cf8&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<br />
-
 <!--
 <p align="center">
   Cloud-native engineer specializing in AWS and GCP solutions architecture, infrastructure automation, and DevOps delivery. I design and build scalable, production-grade systems - from IaC pipelines with Terraform to event-driven cloud applications.
 </p>
 -->
-
-<br />
-<br />
 
 ---
 
@@ -85,7 +80,6 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 [Official News Feature](https://www.apu.edu.my/news/apu-celebrates-soc-students-success-stj-developer-challenge-malaysia-2025)
 
 <br />
-<br />
 
 ---
 
@@ -102,7 +96,6 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 - Open to: Cloud architecture, DevOps, and platform engineering roles
 
 <br />
-<br />
 
 ---
 
@@ -117,7 +110,6 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
   <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,python,ts,js,nodejs,postgres,mysql,mongodb,react,nextjs,html,css,tailwind,linux,githubactions,git,bash,fastapi&perline=8&theme=light" />
 </div>
 
-<br />
 <br />
 
 ---
@@ -145,7 +137,6 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 </p>
 
 <br />
-<br />
 
 ---
 
@@ -160,8 +151,5 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 </div>
 
 <br />
-<br />
 
 ---
-
-<br />
