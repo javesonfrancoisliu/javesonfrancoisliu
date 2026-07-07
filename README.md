@@ -154,7 +154,7 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesonfrancoisliu&bg_color=00000000&color=818cf8&line=818cf8&point=818cf8&area_color=818cf8&area=true&hide_border=true&custom_title=" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesonfrancoisliu&bg_color=00000000&color=818cf8&line=818cf8&point=818cf8&area_color=818cf8&area=true&hide_border=true&hide_title=true" />
 </div>
 
 <br />
