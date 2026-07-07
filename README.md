@@ -12,7 +12,9 @@
   <a href="mailto:javesonfrancoisliu@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-818cf8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=javesonfrancoisliu&style=for-the-badge&color=818cf8&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
