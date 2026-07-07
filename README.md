@@ -18,9 +18,11 @@
 
 <br />
 
+<!--
 <p align="center">
-  Cloud-native engineer specializing in AWS and GCP solutions architecture, infrastructure automation, and DevOps delivery. I design and build scalable, production-grade systems - from IaC pipelines with Terraform to event-driven cloud applications. Currently open to solutions architecture and cloud engineering roles.
+  Cloud-native engineer specializing in AWS and GCP solutions architecture, infrastructure automation, and DevOps delivery. I design and build scalable, production-grade systems - from IaC pipelines with Terraform to event-driven cloud applications.
 </p>
+-->
 
 <br />
 <br />
@@ -152,7 +154,7 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesonfrancoisliu&bg_color=00000000&color=818cf8&line=818cf8&point=818cf8&area_color=818cf8&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesonfrancoisliu&bg_color=00000000&color=818cf8&line=818cf8&point=818cf8&area_color=818cf8&area=true&hide_border=true&custom_title=" />
 </div>
 
 <br />
