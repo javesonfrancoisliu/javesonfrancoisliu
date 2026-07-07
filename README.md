@@ -1,14 +1,8 @@
 <h1 align="center">Javeson Francois Liu</h1>
 
 <p align="center">
-  Cloud Engineer &nbsp;&middot;&nbsp; Solutions Architect &nbsp;&middot;&nbsp; DevOps Engineer
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=818cf8&center=true&vCenter=true&width=520&lines=Solutions+Architect+%C2%B7+Cloud+Engineer+%C2%B7+DevOps" alt="Solutions Architect · Cloud Engineer · DevOps" />
 </p>
-
-<!-- TEMPORARILY HIDDEN
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Fjavesonfrancoisliu%2Fgithub-profile%2Fup&query=%24.count&color=818cf8&style=for-the-badge&label=UNIQUE%20VISITORS" alt="Unique Visitors" />
-</p>
--->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javesonfrancoisliu/">
@@ -16,8 +10,16 @@
   </a>
   &nbsp;
   <a href="mailto:javesonfrancoisliu@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-fafafa?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/EMAIL-818cf8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=javesonfrancoisliu&style=for-the-badge&color=818cf8&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<br />
+
+<p align="center">
+  Cloud-native engineer specializing in AWS and GCP solutions architecture, infrastructure automation, and DevOps delivery. I design and build scalable, production-grade systems - from IaC pipelines with Terraform to event-driven cloud applications. Currently open to solutions architecture and cloud engineering roles.
 </p>
 
 <br />
@@ -27,8 +29,8 @@
 
 <br />
 
-<!-- TEMPORARILY HIDDEN
-### Featured Credentials
+<!--
+<h3 align="center">Featured Credentials</h3>
 
 <br />
 
@@ -70,7 +72,7 @@
 
 <br />
 
-### Achievements
+<h3 align="center">Achievements</h3>
 
 <br />
 
@@ -86,46 +88,76 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 <br />
 -->
 
-### Tech Stack
+<!--
+<h3 align="center">Currently</h3>
 
 <br />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,python,ts,js,nodejs,postgres,mysql,mongodb,react,nextjs,html,css,tailwind,linux,githubactions,git,bash,fastapi,jupyter,playwright&perline=8&theme=light" />
-</div>
+- Building: *update this before pushing*
+- Studying: *update this before pushing*
+- Open to: Cloud architecture, DevOps, and platform engineering roles
 
-<br />
-<br />
-
----
-
-<br />
-
-### Statistics
-
-<br />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=javesonfrancoisliu&theme=default&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&hide_border=true&count_private=true" height="170" />
-</p>
-
-<!-- TEMPORARILY HIDDEN
 <br />
 <br />
 
 ---
 
 <br />
-
-### Activity Metrics
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesonfrancoisliu&theme=react&hide_border=true&area=true&color=818cf8" width="100%" />
-</div>
 -->
 
+<h3 align="center">Tech Stack</h3>
+
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,python,ts,js,nodejs,postgres,mysql,mongodb,react,nextjs,html,css,tailwind,linux,githubactions,git,bash,fastapi&perline=8&theme=light" />
+</div>
+
 <br />
 <br />
+
+---
+
+<br />
+
+<h3 align="center">Statistics</h3>
+
+<br />
+
+<!--
+<p align="center">
+  <img src="https://github-stats-tawny-six.vercel.app/api?username=javesonfrancoisliu&show_icons=true&theme=transparent&hide_border=true&ring_color=818cf8&icon_color=818cf8&title_color=818cf8&count_private=true" height="170" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=javesonfrancoisliu&theme=default&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-tawny-six.vercel.app/api/top-langs/?username=javesonfrancoisliu&layout=compact&theme=transparent&hide_border=true&title_color=818cf8&text_color=818cf8&count_private=true" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=javesonfrancoisliu&theme=default&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&hide_border=true" height="170" />
+</p>
+
+<br />
+<br />
+
+---
+
+<br />
+
+<h3 align="center">Activity</h3>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesonfrancoisliu&bg_color=00000000&color=818cf8&line=818cf8&point=818cf8&area_color=818cf8&area=true&hide_border=true" />
+</div>
+
+<br />
+<br />
+
+---
+
 <br />
