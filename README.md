@@ -110,6 +110,7 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
   <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,python,ts,js,nodejs,postgres,mysql,mongodb,react,nextjs,html,css,tailwind,linux,githubactions,git,bash,fastapi&perline=8&theme=light" />
 </div>
 
+<!--
 <br />
 
 ---
@@ -120,7 +121,6 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 
 <br />
 
-<!--
 <p align="center">
   <img src="https://github-stats-tawny-six.vercel.app/api?username=javesonfrancoisliu&show_icons=true&theme=transparent&hide_border=true&ring_color=818cf8&icon_color=818cf8&title_color=818cf8&count_private=true" height="170" />
   &nbsp;
@@ -130,7 +130,6 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 <p align="center">
   <img src="https://github-stats-tawny-six.vercel.app/api/top-langs/?username=javesonfrancoisliu&layout=compact&theme=transparent&hide_border=true&title_color=818cf8&text_color=818cf8&count_private=true" />
 </p>
--->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=javesonfrancoisliu&theme=default&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&hide_border=true" height="170" />
@@ -153,3 +152,4 @@ Successfully represented Asia Pacific University (APU) and secured recognition f
 <br />
 
 ---
+-->
